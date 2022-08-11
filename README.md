@@ -1,6 +1,6 @@
 # MiniStar-Nano-Experiment-Kit
 
-<img src="pic/MiniStar Nano small thumbnail.jpg" align="right">
+<img src="pic/MNEK Board and Jumpers.jpg" align="right">
 
 Enables a seamless connection between programmable logic devices and embedded processors. It is compatible with a wide range of peripheral device standards, significantly reduces user costs, and can be widely used in industrial, communication, servo drive, and other fields.
 
